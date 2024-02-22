@@ -11,14 +11,9 @@ It utilizes Maven as the build tool and incorporates email functionality using t
 - **Attendance Tracking:** Users can mark attendance for employees.
 - **Email Notifications:** Email notifications are sent using the JavaMail API to notify users about attendance status.
 
-## Getting Started
-
-To get started with the Vantex Console Attendance System, follow these steps:
+## To clone this repository
 
 1. Clone the repository: `https://github.com/SUTHESH-004/VantexSoft.git`
-2. Navigate to the project directory: `cd vantex-attendance`
-3. Build the project using Maven: `mvn clean install`
-4. Run the application: `java -jar target/vantex-attendance.jar`
 
 ## Usage
 
