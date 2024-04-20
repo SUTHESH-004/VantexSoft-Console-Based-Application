@@ -13,7 +13,7 @@ It utilizes Maven as the build tool and incorporates email functionality using t
 
 ## To clone this repository
 
-1. Clone the repository: `https://github.com/SUTHESH-004/VantexSoft.git`
+1. Clone the repository: `https://github.com/SUTHESH-004/VantexSoft-Console-Based-Application`
 
 ## Usage
 
